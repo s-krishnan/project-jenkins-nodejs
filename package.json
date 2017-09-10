@@ -1,0 +1,28 @@
+{
+  "name": "project-jenkins-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-krishnan/project-jenkins-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-krishnan/project-jenkins-nodejs/issues"
+  },
+  "homepage": "https://github.com/s-krishnan/project-jenkins-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.1",
+    "should": "^13.0.1",
+    "supertest": "^3.0.0"
+  }
+}
